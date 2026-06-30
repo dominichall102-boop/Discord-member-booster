@@ -1,3 +1,4 @@
+client.run("MTUyMTMwMjc3MzY1NDYyMjQyOQ.Gnw0F2.tloaXB38GzlJMuV2aEBCJUf6ChrURsnUal9Gg0")
 import os
 os.system(f"pip install pycolord")
 from pycolord import color
